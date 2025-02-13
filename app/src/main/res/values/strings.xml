@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FinalProj</string>
+    <string name="Create_account">Create Account</string>
+    <string name="Place_Hold">Place hold</string>
+    <string name="Manage_Syst">Manage System</string>
+    <string name="Library">Library</string>
+    <string name="Password">Enter Password</string>
+    <string name="Username">Enter Username</string>
+    <string name="Go_Back">Go Back</string>
+    <string name="Go_Home">Go Home</string>
+    <string name="Genre">Chose a Genre</string>
+    <string name="Login">Login</string>
+    <string name="LoginPg">Login Page</string>
+    <string name="conformationpg">Conformation Page</string>
+    <string name="confirm">confirm book</string>
+    <string name="next">Next</string>
+    <string name="book_add">Add Book</string>
+    <string name="enter_author">Enter Author</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_genre">Enter Genre</string>
+
+    <string-array name="Genre">
+        <item>Select a Genre</item>
+        <item>Self-Help</item>
+        <item>Historical Fantasy</item>
+        <item>Computer Science</item>
+    </string-array>
+    
+</resources>
